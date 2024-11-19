@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: en33u2mis-java-quarkus-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/en33u2mis-java-quarkus
